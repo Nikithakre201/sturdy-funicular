@@ -1,0 +1,67 @@
+body{
+    background-color:lightpink;
+}
+.image{
+    border:5px double yellow;
+    border-radius: 60px 60px 60px 60px;
+}
+.ingrd{
+    background-color: chocolate;
+    color:aliceblue;
+    font-size: 15px;
+    width: 130px;
+    border:4px dotted wheat;
+    border-radius: 20px;
+    padding:10px 40px 10px 40px;
+    margin:20px 20px 40px 180px;
+}
+.headline{
+    color:ghostwhite;
+    background-color: orangered;
+    font-size: 40px;
+    border:3px dashed ghostwhite;
+    border-radius: 40px;
+    padding:10px;
+    margin:20px
+}
+.ingredient{
+    background-color: darkblue;
+    color:aliceblue;
+    width:300px;
+    font-size: 25px;
+    border:2px dotted white;
+    border-radius: 10px;
+    padding: 10px;
+    margin:20px 20px 20px 100px;
+}
+.recepi{
+    background-color: lightblue;
+    color: darkblue;
+    border:5px solid wheat;
+    border-radius: 20px;
+    font-size: 25px;
+    padding:10px;
+    margin-left:550px;
+    margin-right:550px;
+    margin-bottom: 20px;
+}
+.list{
+    background-color:darkorange;
+    color:aliceblue;
+    font-size: 17px;
+    width:800px;
+    border:5px dotted white;
+    border-radius: 30px;
+    padding:20px 15px 20px 50px;
+    margin: 20px 300px 40px 300px;
+}
+.subtopic{
+    background-color: olivedrab;
+    color: black;
+    font-size: 17px;
+    border: 3px solid wheat;
+    border-radius: 15px;
+    padding:7px;
+    margin-left:300px;
+   
+}
